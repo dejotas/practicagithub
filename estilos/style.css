@@ -1,5 +1,13 @@
-unoo{
+#unoo{
+    color: blue;
     text-align: center;
+    text-align: 7px;
     background-image: url(../imagenes/car1.0.webp);
-    background-size: contain;
+    background-size: 230px 130px;
+}
+#catal{
+    background-image: url(../imagenes/ca2.webp);
+    background-image: url(../imagenes/ca3.webp);
+    background-image: url(../imagenes/ca4.webp);
+
 }
